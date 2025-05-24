@@ -1,0 +1,8 @@
+datasets/A/test.json.gz
+datasets/A/train.json.gz
+datasets/B/test.json.gz
+datasets/B/train.json.gz
+datasets/C/test.json.gz
+datasets/C/train.json.gz
+datasets/D/test.json.gz
+datasets/D/train.json.gz
